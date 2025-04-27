@@ -1,3 +1,9 @@
+# ⛺ Shimarin Web dev 
+
+Halo, selamat datang di halaman profile Saya
+
+Website ini dibuat dengan penuh kehangatan, suasana santai, dan penuh bintang jatuh 🌠
+Shimarin & Nadeshiko pasti bangga kalau lihat ini! 🔥
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yeta415/Yeta415/main/anime-male.gif" width="700" />
