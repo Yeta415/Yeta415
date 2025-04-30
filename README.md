@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Yeta415/Yeta415/main/anime-male.gif" width="700" />
 </p>
 
-<h1 align="center">Shimarin Web dev</h1>
+<h1 align="center">Shimarin Profile</h1>
 <h3 align="center">🚀 I love building web apps and automating things!</h3>
 
 <p align="center">
